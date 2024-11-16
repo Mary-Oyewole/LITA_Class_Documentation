@@ -137,7 +137,7 @@ Key sections:
 
 1. Clone the repository:  
    bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/Mary-Oyewole/LITA_Class_Documentation.git
    
 2. Load the datasets into your SQL Server environment.
 3. Use provided SQL queries to generate insights.
